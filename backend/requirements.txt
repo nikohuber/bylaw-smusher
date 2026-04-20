@@ -1,0 +1,6 @@
+flask
+flask-cors
+chromadb
+pdfplumber
+requests
+python-dotenv

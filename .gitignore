@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+chroma_data/
+backend/bylaws/*.pdf
+node_modules/
+dist/
+.DS_Store
